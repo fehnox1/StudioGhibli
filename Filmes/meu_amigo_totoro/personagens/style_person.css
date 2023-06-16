@@ -1,0 +1,17 @@
+.bt_voltar{
+
+    color: white;
+    background-color: black;
+    padding: 20px 20px 20px 20px;
+    margin: 20% 20% 20% 20%;
+    text-decoration: none;
+    border: 2px solid coral;
+    border-radius: 30px;
+
+}
+
+.bt_voltar:hover{
+    color: violet;
+    background-color: rgba(58, 42, 42, 0.212);
+    padding:21px 21px 21px 21px ;
+}
