@@ -2,16 +2,17 @@
 
     color: white;
     background-color: black;
-    padding: 20px 20px 20px 20px;
+    padding: 10px 19px 10px 19px;
     margin: 20% 20% 20% 20%;
     text-decoration: none;
-    border: 2px solid coral;
+    border: 2px solid #E0FFFF	 ;
     border-radius: 30px;
 
 }
 
 .bt_voltar:hover{
-    color: violet;
-    background-color: rgba(58, 42, 42, 0.212);
-    padding:21px 21px 21px 21px ;
+    color: rgba(245, 245, 245, 0.671);
+    background-color: #A9A9A9	;
+    padding: 10px 19px 10px 19px ;
+
 }
