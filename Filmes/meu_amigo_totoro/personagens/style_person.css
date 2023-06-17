@@ -12,7 +12,31 @@
 
 .bt_voltar:hover{
     color: rgba(245, 245, 245, 0.671);
-    background-color: #A9A9A9	;
+    background-color: rgba(39, 37, 37, 0.671)	;
     padding: 10px 19px 10px 19px ;
 
 }
+
+.bt_principal{
+
+    
+    color: white;
+    background-color: black;
+    padding: 10px 19px 10px 19px;
+    margin: 20% 20% 20% 20%;
+    text-decoration: none;
+    border: 2px solid #E0FFFF	 ;
+    border-radius: 30px;
+
+
+}
+
+.bt_principal:hover{
+    color: rgba(245, 245, 245, 0.671);
+    background-color: rgba(39, 37, 37, 0.671)	;
+    padding: 10px 19px 10px 19px ;
+
+
+}
+
+
