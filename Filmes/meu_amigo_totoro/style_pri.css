@@ -1,8 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+*{
+   background-color:  #000000;
+}
+
+h1{
+ color: white;
+ background-color: #000000;
+ font-family: Henny Penny, sans-serif, Arial, Helvetica, sans-serif;
+
+ margin: 1%;
+ text-align: center;
+}
+
+h1:hover{
+    border-bottom: 2px solid rgb(20, 230, 100);}
+
+p{
+    color: white;
+}
+
+
+
+
+
+
 .per1{
     font-family: Kablammo, arial, Helvetica;
     color: white;
-    background-color: black;
+    background-color: #292929;
     padding: 10px 19px 10px 19px;
     margin: 20% 20% 20% 20%;
     text-decoration: none;
@@ -17,7 +44,7 @@
 .music{
     font-family: Kablammo, arial, Helvetica;
     color: white;
-    background-color: black;
+    background-color: #292929;
     padding: 10px 19px 10px 19px;
     margin: 20% 20% 20% 20%;
     text-decoration: none;
