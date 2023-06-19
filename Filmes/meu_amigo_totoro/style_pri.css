@@ -1,0 +1,27 @@
+.per1{
+
+    color: white;
+    background-color: black;
+    padding: 10px 19px 10px 19px;
+    margin: 20% 20% 20% 20%;
+    text-decoration: none;
+    border-radius: 30px;
+
+}
+
+.per1:hover{
+    border-bottom: 2px solid rgb(20, 230, 100);
+}
+
+.music{
+    color: white;
+    background-color: black;
+    padding: 10px 19px 10px 19px;
+    margin: 20% 20% 20% 20%;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.music:hover{
+    border-bottom: 2px solid rgb(20, 230, 100);
+
+}
