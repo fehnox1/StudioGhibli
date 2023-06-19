@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
 .per1{
-
+    font-family: Kablammo, arial, Helvetica;
     color: white;
     background-color: black;
     padding: 10px 19px 10px 19px;
@@ -14,6 +15,7 @@
 }
 
 .music{
+    font-family: Kablammo, arial, Helvetica;
     color: white;
     background-color: black;
     padding: 10px 19px 10px 19px;
